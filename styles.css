@@ -1,0 +1,16 @@
+body{ background-color: linen;}
+hr{
+   border-style: none; 
+   border-top-style: dotted ;
+   border-color :rgb(81, 79, 79) ;
+   border-width: 5px;
+    height: 0px;
+    width: 5%;
+
+}
+h1{
+    color:#66bfbf;
+}
+h3{
+    color:#66bfbf;
+}
